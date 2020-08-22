@@ -12,8 +12,8 @@ I'm a computer scence student at [University of Brasilia](www.unb.br) (UnB).
 ⭒I aspire to be a great developer woman.
 
 ⭑Ask me about anything  
-   I probably do not the answer to your questions,  
-   but I'will love to find out with your. :blush:
+   I probably do not know the answer to your questions,  
+   but I will love to find out with you. :blush:
 
 
 # How to reach me:
