@@ -1,6 +1,6 @@
 ![Hello World, I'm Tais](<https://raw.githubusercontent.com/Tais-A/README/master/hello_word.jpg>)
 
-I'm a computer scence student at [University of Brasilia](www.unb.br) (UnB).
+I'm a computer science student at [University of Brasilia](www.unb.br) (UnB).
 
 # About me:  
 
@@ -9,7 +9,7 @@ I'm a computer scence student at [University of Brasilia](www.unb.br) (UnB).
 ⭑I'm currently learning about everything.  
 ⭒I'm a full time adventure seeker.  
 ⭑I'm half a coder and half an architect (the kind that designs real physical house).  
-⭒I aspire to be a great developer woman.
+⭒I aspire to be a great female software developer.
 
 ⭑Ask me about anything  
    I probably do not know the answer to your questions,  
