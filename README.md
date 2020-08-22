@@ -19,5 +19,5 @@ I'm a computer scence student at [University of Brasilia](www.unb.br) (UnB).
 ---
 # How to reach me:
 
-[![email](<https://img.icons8.com/clouds/100/000000/mailbox-plane.png>)](dtais@outlook.com.br)
+[![email](<https://img.icons8.com/clouds/100/000000/mailbox-plane.png>)](mailto:dtais@outlook.com.br)
 [![linkedin](<https://img.icons8.com/clouds/100/000000/linkedin.png>)](https://www.linkedin.com/in/tais-oliveira-307719103/)
