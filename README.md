@@ -4,8 +4,6 @@ I'm a computer science student at [University of Brasilia](www.unb.br) (UnB).
 
 # About me:  
 
-⭒Pronouns: she/her
-
 ⭑I'm currently learning about everything.  
 ⭒I'm a full time adventure seeker.  
 ⭑I'm half a coder and half an architect (the kind that designs real physical house).  
